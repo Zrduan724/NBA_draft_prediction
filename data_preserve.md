@@ -7,8 +7,8 @@ YEAR（参选年份）,
 <!-- ROUND.1（该轮顺位）, -->
 OVERALL（总顺位）,
 <!-- team（大学球队）, -->
-<!-- conf, -->
-GP（出赛场次）,
+<!-- conf（赛区）, -->
+<!-- GP（出赛场次）, -->
 Min_per（出场次数占比）,
 Ortg（进攻效率值）,
 usg（球权使用率）,
@@ -39,7 +39,7 @@ ftr（罚球率）,
 <!-- year（参选年份）, -->
 <!-- pid（球员id）, -->
 <!-- type, -->
-<!-- Rec_Rank（推荐排名）, -->
+Rec_Rank（推荐排名）,
 ast/tov（助攻失误比）,
 rimmade（油漆区命中数）,
 rimmade+rimmiss（篮下得分机会的总数）,
@@ -64,10 +64,10 @@ ogbpm（优化后的进攻效率评分）,
 dgbpm（优化后的防守效率评分）,
 oreb（进攻篮板）,
 dreb（防守篮板）,
-<!-- treb, -->
-<!-- ast, -->
-<!-- stl, -->
-<!-- blk, -->
-<!-- pts（位置）, -->
+treb,
+ast,
+stl,
+blk,
+pts,
 <!-- Unnamed: 64, -->
 <!-- Unnamed: 65 -->
